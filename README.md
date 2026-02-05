@@ -74,7 +74,6 @@ This project reflects hands-on experience in designing and deploying enterprise-
 
 ---
 ## Screenshots
-## Screenshots
 
 ### VPC and Subnet Configuration
 ![VPC](Screenshots/VPC-Project.png)
