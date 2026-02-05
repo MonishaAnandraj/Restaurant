@@ -73,6 +73,23 @@ The infrastructure was designed following AWS Well-Architected Framework princip
 This project reflects hands-on experience in designing and deploying enterprise-grade AWS infrastructure with a focus on security, scalability, and operational excellence while maintaining cost efficiency using AWS Free Tier resources.
 
 ---
+## Screenshots
+## Screenshots
+
+### VPC and Subnet Configuration
+![VPC](Screenshots/VPC-Project.png)
+
+### EC2 Instances
+![EC2](Screenshots/Ec2.png)
+
+### Application Load Balancer
+![ALB](Screenshots/loadbalancer.png)
+
+### Auto Scaling Group
+![ASG](Screenshots/auto-scaling.png)
+
+### RDS Multi-AZ Setup
+![RDS](Screenshots/RDS.png)
 
 
 
