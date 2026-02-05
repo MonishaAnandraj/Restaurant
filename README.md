@@ -58,14 +58,6 @@ The infrastructure was designed following AWS Well-Architected Framework princip
 
 ---
 
-## Team Collaboration and Documentation
-- Collaborated with a team of cloud engineers using Git-based workflows  
-- Participated in peer reviews and shared code practices  
-- Created architecture documentation and troubleshooting guides  
-- Followed structured task ownership and team communication  
-
----
-
 ## Skills Demonstrated
 - AWS Cloud Architecture  
 - Networking (VPC, Subnets, Routing, Gateways)  
@@ -81,4 +73,6 @@ The infrastructure was designed following AWS Well-Architected Framework princip
 This project reflects hands-on experience in designing and deploying enterprise-grade AWS infrastructure with a focus on security, scalability, and operational excellence while maintaining cost efficiency using AWS Free Tier resources.
 
 ---
+
+
 
