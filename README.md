@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure Deployment and Automation
 
-## Project Live link -- https://monishaanandraj.github.io/Restaurant/
+## Project Live link -- https://monishaanandraj.github.io/AWS-Cloud-Infrastructure-Deployment-and-Automation/
 
 ## Project Overview
 This project showcases the design and deployment of a secure, scalable, and highly available AWS cloud infrastructure that simulates a real-world production environment. The solution was implemented using AWS Free Tier resources with a strong emphasis on security best practices, automation, and cost optimization.
