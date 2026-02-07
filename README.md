@@ -77,6 +77,9 @@ This project reflects hands-on experience in designing and deploying enterprise-
 ---
 ## Screenshots
 
+### Architecture Diagram
+![Architecture](Screenshots/Architecture.png)
+
 ### VPC and Subnet Configuration
 ![VPC](Screenshots/VPC-Project.png)
 
